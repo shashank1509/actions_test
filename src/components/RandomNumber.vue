@@ -1,6 +1,6 @@
 <template>
 <h1>{{msg}}</h1>
-<button @click="genRanNum()">Generate random Number</button>
+<button @click="genRanNum()">Generate random Numbers</button>
 <h2>{{random_number}}</h2>
 </template>
 
